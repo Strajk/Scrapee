@@ -1,0 +1,9 @@
+{
+  "name": "scrapee",
+  "version": "0.0.1",
+  "description": "Example websites for testing scraping",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Pavel 'Strajk' Dolecek <strajk@me.com> (https://www.strajk.me/)",
+  "license": "ISC"
+}
